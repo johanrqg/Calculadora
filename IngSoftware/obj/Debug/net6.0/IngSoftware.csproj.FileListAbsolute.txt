@@ -1,0 +1,15 @@
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\bin\Debug\net6.0\IngSoftware.exe
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\bin\Debug\net6.0\IngSoftware.deps.json
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\bin\Debug\net6.0\IngSoftware.runtimeconfig.json
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\bin\Debug\net6.0\IngSoftware.dll
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\bin\Debug\net6.0\IngSoftware.pdb
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.csproj.AssemblyReference.cache
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.AssemblyInfoInputs.cache
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.AssemblyInfo.cs
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.csproj.CoreCompileInputs.cache
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.dll
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\refint\IngSoftware.dll
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.pdb
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\IngSoftware.genruntimeconfig.cache
+C:\Users\rudym\source\repos\IngSoftware\IngSoftware\obj\Debug\net6.0\ref\IngSoftware.dll
